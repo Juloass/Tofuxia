@@ -1,3 +1,6 @@
 [submodule "Tofuxia-Assets"]
 	path = Tofuxia-Assets
 	url = https://github.com/Juloass/Tofuxia-Assets
+[submodule "Tofuxia-Mod"]
+	path = Tofuxia-Mod
+	url = https://github.com/Juloass/Tofuxia-Mod
