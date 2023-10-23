@@ -7,3 +7,6 @@
 [submodule "Tofuxia-Administration"]
 	path = Tofuxia-Administration
 	url = https://github.com/Juloass/Tofuxia-Administration.git
+[submodule "Tofuxia-Quests"]
+	path = Tofuxia-Quests
+	url = https://github.com/Juloass/Tofuxia-Quests.git
