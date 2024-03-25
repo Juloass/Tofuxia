@@ -10,3 +10,9 @@
 [submodule "Tofuxia-Quests"]
 	path = Tofuxia-Quests
 	url = https://github.com/Juloass/Tofuxia-Quests.git
+[submodule "Tofubot"]
+	path = Tofubot
+	url = https://github.com/Juloass/Tofubot.git
+[submodule "Tofubot-Web"]
+	path = Tofubot-Web
+	url = https://github.com/Juloass/Tofubot-Web.git
