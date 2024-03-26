@@ -8,7 +8,7 @@ Welcome to the Tofuxia Minecraft Server Project repository! This project aims to
 ## Submodules
 
 ### CryptiK
-[CryptiK](https://github.com/Juloass/CryptiK) is a submodule dedicated to dungeon and instance management within the Tofuxia Minecraft server. For detailed information, please refer to this [README.md](https://github.com/Juloass/CryptiK/README.md).
+[CryptiK](https://github.com/Juloass/CryptiK) is a submodule dedicated to dungeon and instance management within the Tofuxia Minecraft server. For detailed information, please refer to this [README.md](https://github.com/Juloass/CryptiK/blob/main/README.md).
 
 ### Tofubot
 [Tofubot](https://github.com/Juloass/Tofubot) is a Discord bot tailored for the Tofuxia Minecraft server community. It facilitates mini-games, currency management, and enables users to purchase and open card packs through a web interface.
