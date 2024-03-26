@@ -2,6 +2,9 @@
 
 Welcome to the Tofuxia Minecraft Server Project repository! This project aims to create a custom Minecraft server experience inspired by the world of Dofus. It integrates various modules to enhance gameplay, administration, and community engagement.
 
+## Status
+[![Node.js CI](https://github.com/Juloass/Tofubot-Web/actions/workflows/node.js.yml/badge.svg)](https://github.com/Juloass/Tofubot-Web/actions/workflows/node.js.yml)
+
 ## Submodules
 
 ### CryptiK
