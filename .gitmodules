@@ -16,3 +16,6 @@
 [submodule "Tofubot-Web"]
 	path = Tofubot-Web
 	url = https://github.com/Juloass/Tofubot-Web
+[submodule "CryptiK"]
+	path = CryptiK
+	url = https://github.com/Juloass/CryptiK
