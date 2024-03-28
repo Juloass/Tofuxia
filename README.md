@@ -4,6 +4,7 @@ Welcome to the Tofuxia Minecraft Server Project repository! This project aims to
 
 ## Status
 [![Tofubot](https://github.com/Juloass/Tofubot/actions/workflows/node.js.yml/badge.svg)](https://github.com/Juloass/Tofubot/actions/workflows/node.js.yml) [![Node.js CI](https://github.com/Juloass/Tofubot-Web/actions/workflows/node.js.yml/badge.svg)](https://github.com/Juloass/Tofubot-Web/actions/workflows/node.js.yml) 
+[![Cryptik-Master](https://github.com/Juloass/CryptiK-Master/actions/workflows/gradle.yml/badge.svg)](https://github.com/Juloass/CryptiK-Master/actions/workflows/gradle.yml)
 
 ## Submodules
 
